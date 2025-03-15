@@ -11,5 +11,4 @@ CREATE TEMP TABLE IF NOT EXISTS depression_events AS (
 		SELECT icd9_code, short_title, long_title
 		FROM depression_icd9
 	) AS B
-	ON A.icd9_code = B.icd9_code
-);
+	ON A.icd9_code = B.icd9_code);
