@@ -1,0 +1,13 @@
+conda-forge::jupyterlab
+conda-forge::pandas
+conda-forge::nltk
+conda-forge::transformers
+conda-forge::pytorch
+conda-forge::numpy
+conda-forge::matplotlib
+conda-forge::seaborn
+conda-forge::ipywidgets
+conda-forge::accelerate
+nvidia::cuda-cudart
+nvidia::cuda-version=12
+rapidsai::rapids

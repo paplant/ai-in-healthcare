@@ -1,0 +1,24 @@
+row_id,icd9_code,short_title,long_title
+2572,29634,Rec depr psych-psychotic,"Major depressive affective disorder, recurrent episode, severe, specified as with psychotic behavior"
+2573,29635,Recur depr psyc-part rem,"Major depressive affective disorder, recurrent episode, in partial or unspecified remission"
+2574,29636,Recur depr psyc-full rem,"Major depressive affective disorder, recurrent episode, in full remission"
+2599,29682,Atypical depressive dis,Atypical depressive disorder
+2609,2980,React depress psychosis,Depressive type psychosis
+2653,30112,Chr depressive person,Chronic depressive personality disorder
+2982,3091,Prolong depressive react,Prolonged depressive reaction
+3002,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified"
+3217,29013,Presenile depression,Presenile dementia with depressive features
+3219,29021,Senile depressive,Senile dementia with depressive features
+3337,29620,Depress psychosis-unspec,"Major depressive affective disorder, single episode, unspecified"
+3338,29621,Depress psychosis-mild,"Major depressive affective disorder, single episode, mild"
+3339,29622,Depressive psychosis-mod,"Major depressive affective disorder, single episode, moderate"
+3340,29623,Depress psychosis-severe,"Major depressive affective disorder, single episode, severe, without mention of psychotic behavior"
+3341,29624,Depr psychos-sev w psych,"Major depressive affective disorder, single episode, severe, specified as with psychotic behavior"
+3342,29625,Depr psychos-part remiss,"Major depressive affective disorder, single episode, in partial or unspecified remission"
+3343,29626,Depr psychos-full remiss,"Major depressive affective disorder, single episode, in full remission"
+3344,29630,Recurr depr psychos-unsp,"Major depressive affective disorder, recurrent episode, unspecified"
+3345,29631,Recurr depr psychos-mild,"Major depressive affective disorder, recurrent episode, mild"
+3346,29632,Recurr depr psychos-mod,"Major depressive affective disorder, recurrent episode, moderate"
+3347,29633,Recur depr psych-severe,"Major depressive affective disorder, recurrent episode, severe, without mention of psychotic behavior"
+8943,7792,Cns dysfunction syn NB,"Cerebral depression, coma, and other abnormal cerebral signs in fetus or newborn"
+14490,V790,Screening for depression,Screening for depression
